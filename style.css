@@ -2,7 +2,7 @@ h1 {
     background-color: #00ffff;
 }
 
-div {
+h3 {
     border: aqua;
 }
 
@@ -24,7 +24,7 @@ body {
     font: italic;
 }
 
-h3.emphasized {
+body h3.emphasized {
     font: bolder;
 }
 
@@ -38,4 +38,16 @@ h6 {
 
 .emphasized {
     border: darkslategrey;
+}
+
+h2 {
+    color: darksalmon;
+}
+
+h4 {
+    color: darksalmon;
+}
+
+h5 {
+    color: darksalmon;
 }
