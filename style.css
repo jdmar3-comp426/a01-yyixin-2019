@@ -1,0 +1,41 @@
+h1 {
+    background-color: aqua;
+}
+
+.footnote {
+    border: aqua;
+}
+
+#author {
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+figure {
+    width: fit-content;
+    height: fit-content;
+}
+
+p:hover {
+    background-color: cadetblue;
+}
+
+body h3 {
+    font: italic;
+}
+
+h3.emphasized {
+    font: bolder;
+}
+
+head {
+    color: darkcyan;
+}
+
+main {
+    color: darksalmon;
+}
+
+footer {
+    border: darkslategrey;
+}
